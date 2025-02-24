@@ -1,21 +1,18 @@
 # SUPPORT.md
 
-# Support Guidelines
+# Ligne de conduite du Support
 
-## Reporting Issues
-If you encounter any issues while using this project, please report them by opening an issue in the [issues section](https://github.com/github/panda-79/issues). Be sure to include the following information:
-- A clear and descriptive title for the issue.
-- A detailed description of the problem, including steps to reproduce it.
-- Any relevant screenshots or error messages.
+Bienvenue sur la page de support du référentiel de développement S3.
 
-## Requesting Features
-We welcome feature requests! If you have an idea for a new feature or enhancement, please submit it as a feature request in the [issues section](https://github.com/github/panda-79/issues). Include:
-- A clear and descriptive title for the feature request.
-- A detailed explanation of the feature and its benefits.
+## Signaler une anomalie
+Pour toute aide supplémentaire, n'hésitez pas à contacter nous contacter par le canal team [Support s3](https://teams.microsoft.com/l/channel/19%3A2c18eb0389ac489b96e6be622d113502%40thread.tacv2/Support%20S3?groupId=2396aeda-59e0-4036-8684-1ebc353aa4ca&tenantId=9c9d8823-ab9e-4ac4-8251-32c4a7ae50d5).
 
-## Additional Support Resources
-For more information and resources, please check the following:
-- [Documentation](https://github.com/github/panda-79/wiki)
-- [Community Discussions](https://github.com/github/panda-79/discussions)
+## Demandes de fonctionnalités
+Nous acceptons les demandes de fonctionnalités. Si vous avez une idée pour une nouvelle fonctionnalité ou une amélioration, veuillez la soumettre en tant que demande de fonctionnalité dans le canle Support Veuillez inclure :
 
-Thank you for your interest in our project! We appreciate your contributions and feedback.
+-Un titre clair et descriptif pour la demande de fonctionnalité.
+-Une explication détaillée de la fonctionnalité et de ses avantages.
+
+## Resources de support additionnel
+Pour plus d'informations et de ressources, veuillez consulter les liens suivants :
+- [Documentation de support](https://pages.github.maif.io/s3/doc/stockage%20objet/).
